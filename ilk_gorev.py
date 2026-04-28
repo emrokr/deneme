@@ -1,1 +1,0 @@
-print("Merhaba TAISAT, Ben Emre Okur")
